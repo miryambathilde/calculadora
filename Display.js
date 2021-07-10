@@ -8,9 +8,10 @@ class Display {
         this.previousValue = '';
         this.signes = {
             sum: '+',
-            division: '%',
+            division: '/',
             multiplication: 'x',
-            subtraction: '-', 
+            subtraction: '-',
+            percentage: '%'
         }
     }
 
